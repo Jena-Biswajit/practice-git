@@ -1,6 +1,7 @@
 ## Common Git Errors: Detailed Explanation, Causes, and Solutions
 
-Git errors often occur due to misconfigurations, conflicts, or incorrect command usage. Below is a **detailed** breakdown of common Git errors, why they happen, and how to fix them.
+- Git errors often occur due to misconfigurations, conflicts, or incorrect command usage. 
+- Below is a **detailed** breakdown of common Git errors, why they happen, and how to fix them.
 
 ---
 
